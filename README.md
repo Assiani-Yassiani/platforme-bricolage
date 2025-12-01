@@ -25,7 +25,4 @@ L’objectif de la plateforme est de simplifier les tâches du quotidien en offr
 
 ---
 
-# Objectif du projet
-
-Créer une plateforme pratique et accessible qui facilite la recherche de services de bricolage et d’aide domestique, tout en offrant une bonne expérience utilisateur.
 
